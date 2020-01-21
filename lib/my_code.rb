@@ -26,6 +26,6 @@ add_numbers(2, 2) do |x|
   puts "That adds up to #{x}"
 end 
 
-map vs reduce #enumerables
+# map vs reduce #enumerables
 
 #map 
