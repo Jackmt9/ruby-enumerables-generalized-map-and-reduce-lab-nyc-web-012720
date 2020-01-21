@@ -13,7 +13,7 @@ def reduce(array, sv = nil)
     sum = sv
     i = 0 
   else
-    num1 = array[0]
+    sum = array[0]
     i = 1 
   end
   while i < array.length
