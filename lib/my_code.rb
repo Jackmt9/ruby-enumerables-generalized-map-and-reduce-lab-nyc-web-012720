@@ -10,4 +10,4 @@ end
 
 def reduce(array, sv = nil)
   if sv 
-    sv 
+    num1 = sv 
